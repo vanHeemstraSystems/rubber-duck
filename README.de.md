@@ -4,7 +4,7 @@ Repository-Name
 
 > Slugline
 
--   [Glossar](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Telemetrie](./TELEMETRY.md)
