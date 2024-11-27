@@ -2,12 +2,12 @@ canard en caoutchouc
 
 # Canard en caoutchouc
 
-> Comme Canard en Caoutchouc n'importe quoi...
+> Demandez n'importe quoi à Rubber Duck...
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
 -   [Documentation](./DOCUMENTATION.md)
--   [Télémétrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Résumé exécutif**
 
@@ -21,7 +21,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Créer notre application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
