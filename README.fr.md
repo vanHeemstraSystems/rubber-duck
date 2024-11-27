@@ -1,8 +1,8 @@
-nom du référentiel
+canard en caoutchouc
 
-# Nom du référentiel
+# Canard en caoutchouc
 
-> Slugline
+> Comme Canard en Caoutchouc n'importe quoi...
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
@@ -11,7 +11,7 @@ nom du référentiel
 
 **Résumé exécutif**
 
-Texte
+Un outil de base de connaissances conversationnelle basé sur la génération augmentée de récupération de graphiques (RAG) et construit avec le stockage vectoriel sans serveur TiDB. Démo :<https://tidb.ai>
 
 ## 100 - Introduction
 
