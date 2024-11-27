@@ -2,20 +2,20 @@
 
 # البطة المطاطية
 
-> مثل البطة المطاطية أي شيء ...
+> اسأل البطة المطاطية أي شيء...
 
 -   [مسرد](./GLOSSARY.md)
--   [مراجع](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [التوثيق](./DOCUMENTATION.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
-أداة قاعدة المعرفة القائمة على التخاطب والجيل المعزز لاسترجاع الرسم البياني (RAG) والتي تم إنشاؤها باستخدام TiDB Serverless Vector Storage. العرض التوضيحي:<https://tidb.ai>
+A Graph Retrieval Augmented Generation (RAG) based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: <https://tidb.ai>
 
 ## 100- مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
