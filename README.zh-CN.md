@@ -1,8 +1,8 @@
-存储库名称
+橡皮鸭
 
-# Repository Name
+# 橡皮鸭
 
-> 斯拉格莱恩
+> 作为橡皮鸭任何东西......
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
@@ -11,13 +11,13 @@
 
 **执行摘要**
 
-文本
+使用 TiDB Serverless Vector Storage 构建的基于图形检索增强生成 (RAG) 的会话式知识库工具。演示：<https://tidb.ai>
 
 ## 100 - 简介
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - 要求
 
 看[README.md](./200/README.md)
 
