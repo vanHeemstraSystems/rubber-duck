@@ -1,17 +1,17 @@
-nombre-repositorio
+pato de goma
 
-# Nombre del repositorio
+# pato de goma
 
-> línea de bala
+> Como cualquier cosa del Pato de Goma...
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
 -   [Documentación](./DOCUMENTATION.md)
--   [Telemetria](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
-Texto
+Una herramienta de base de conocimientos conversacional y basada en Graph Retrieval Augmented Generation (RAG) creada con TiDB Serverless Vector Storage. Manifestación:<https://tidb.ai>
 
 ## 100 - Introducción
 
@@ -25,6 +25,6 @@ Ver[README.md](./200/README.md)
 
 Ver[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Conclusión
 
 Ver[README.md](./400/README.md)
