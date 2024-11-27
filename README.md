@@ -1,7 +1,7 @@
 rubber-duck
 # Rubber Duck
 
-> As Rubber Duck anything ...
+> Ask Rubber Duck anything ...
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
