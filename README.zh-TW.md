@@ -2,7 +2,7 @@
 
 # 橡皮鴨
 
-> 作為橡皮鴨任何東西......
+> 問橡皮鴨任何事...
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
@@ -23,7 +23,7 @@
 
 ## 300 - 建立我們的應用程式
 
-看[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - 結論
 
