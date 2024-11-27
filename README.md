@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+rubber-duck
+# Rubber Duck
 
-> Slugline
+> As Rubber Duck anything ...
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
@@ -10,7 +10,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+A Graph Retrieval Augmented Generation (RAG) based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai 
 
 ## 100 - Introduction
 
