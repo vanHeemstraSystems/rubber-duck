@@ -2,7 +2,7 @@ Gummiente
 
 # Gummiente
 
-> Als Gummiente alles...
+> Fragen Sie Rubber Duck etwas ...
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
@@ -11,7 +11,7 @@ Gummiente
 
 **Zusammenfassung**
 
-A Graph Retrieval Augmented Generation (RAG) based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: <https://tidb.ai>
+Ein auf Graph Retrieval Augmented Generation (RAG) basierendes und konversationsbasiertes Wissensdatenbank-Tool, das mit TiDB Serverless Vector Storage erstellt wurde. Demo:<https://tidb.ai>
 
 ## 100 - Einführung
 
