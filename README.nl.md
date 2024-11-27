@@ -1,8 +1,8 @@
-repositorynaam
+rubberen eend
 
-# Naam van opslagplaats
+# Badeend
 
-> Slaklijn
+> Zoals Badeend alles...
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
@@ -11,7 +11,7 @@ repositorynaam
 
 **Samenvatting**
 
-Tekst
+Een op Graph Retrieval Augmented Generation (RAG) gebaseerde en conversatie-kennisbanktool gebouwd met TiDB Serverless Vector Storage. Demo:<https://tidb.ai>
 
 ## 100 - Inleiding
 
