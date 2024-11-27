@@ -2,12 +2,12 @@ pato de goma
 
 # pato de goma
 
-> Como cualquier cosa del Pato de Goma...
+> Pregúntale cualquier cosa al Pato de Goma...
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
 -   [Documentación](./DOCUMENTATION.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
