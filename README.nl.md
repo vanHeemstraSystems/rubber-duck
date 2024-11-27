@@ -2,7 +2,7 @@ rubberen eend
 
 # Badeend
 
-> Zoals Badeend alles...
+> Vraag Rubber Duck alles...
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
@@ -11,11 +11,11 @@ rubberen eend
 
 **Samenvatting**
 
-Een op Graph Retrieval Augmented Generation (RAG) gebaseerde en conversatie-kennisbanktool gebouwd met TiDB Serverless Vector Storage. Demo:<https://tidb.ai>
+A Graph Retrieval Augmented Generation (RAG) based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: <https://tidb.ai>
 
 ## 100 - Inleiding
 
-Zien[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Vereisten
 
@@ -23,7 +23,7 @@ Zien[README.md](./200/README.md)
 
 ## 300 - Onze applicatie bouwen
 
-Zien[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Conclusie
 
